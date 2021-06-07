@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.tcc": "c",
+    "cassert": "c"
+  },
+  "python.pythonPath": "C:\\msys64\\mingw64\\bin\\python.exe"
+}
